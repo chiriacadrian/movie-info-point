@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movie-info-point/static/css/main.02046fad.chunk.css",
+    "main.js": "/movie-info-point/static/js/main.a15c0f8b.chunk.js",
+    "main.js.map": "/movie-info-point/static/js/main.a15c0f8b.chunk.js.map",
+    "runtime-main.js": "/movie-info-point/static/js/runtime-main.b182337a.js",
+    "runtime-main.js.map": "/movie-info-point/static/js/runtime-main.b182337a.js.map",
+    "static/js/2.351ca58b.chunk.js": "/movie-info-point/static/js/2.351ca58b.chunk.js",
+    "static/js/2.351ca58b.chunk.js.map": "/movie-info-point/static/js/2.351ca58b.chunk.js.map",
+    "index.html": "/movie-info-point/index.html",
+    "precache-manifest.192d3177fe48090e9a08177d97bfd0ea.js": "/movie-info-point/precache-manifest.192d3177fe48090e9a08177d97bfd0ea.js",
+    "service-worker.js": "/movie-info-point/service-worker.js",
+    "static/css/main.02046fad.chunk.css.map": "/movie-info-point/static/css/main.02046fad.chunk.css.map",
+    "static/js/2.351ca58b.chunk.js.LICENSE.txt": "/movie-info-point/static/js/2.351ca58b.chunk.js.LICENSE.txt",
+    "static/media/TMDB.3dfea5a1.svg": "/movie-info-point/static/media/TMDB.3dfea5a1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b182337a.js",
+    "static/js/2.351ca58b.chunk.js",
+    "static/css/main.02046fad.chunk.css",
+    "static/js/main.a15c0f8b.chunk.js"
+  ]
+}
